@@ -1,0 +1,9 @@
+License:Unknown
+Web Site:
+Source Code:https://github.com/mupen64plus-ae/mupen64plus-ae
+Issue Tracker:https://github.com/mupen64plus-ae/mupen64plus-ae/issues
+Changelog:
+Summary:Mupen64Plus Android Edition
+Description:
+Mupen64Plus AE (Android Edition) is a port of Mupen64Plus to Android (not officially supported by the <a href="http://mupen64plus.org/">Mupen64Plus</a> team). See <a href="http://pdroms.de/files/nintendo64">PDRoms</a> for public domain ROMs.</p><p>For info about specific games: <a href="http://mupen64plus.wikia.com/wiki/Mupen64Plus,_Android_Edition_%28AE%29_Wiki">compatibility wiki</a>.</p><p>Getting started:</p><ul><li> Transfer ROMs anywhere to your internal storage (default /sdcard/roms/n64/)</li><li> Browse to them from within the app</li><li> ROMs must be in .n64, .v64, or .z64 format, optionally in .zip files</li></ul><p>A proprietary library to support the Ouya games console was removed before building.</p>
+.
