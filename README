@@ -3,3 +3,11 @@ LFDroid
 stands for less free android repository
 
 its based on the fdroid project and is an alternate repository whyich brings only free (not as im free beer but as im freedom (libre not (only) gratis)) and open source software to devices with the android operating system. The regulations/requierments for there repository are very high so this repository is an attemnt for to have some more (and more up to date) thinks on your phone. 
+
+How to use
+
+to use our repository, which is currently in alpha test phase, open your fdroid client app, press the menu button (tree vertical points) and select "Repositories". There press the plus (+) and type in following at the field "Repository address"
+
+https://lfdroid.github.io/repo/
+
+then press add, get sure that its slider is in the on position, go back, hit the refresh button and enjoy our apps.
